@@ -17,7 +17,8 @@ Settings:
  - Enable Snap Tuning: When enabled, your radio will automatically tune to the nearest even 1KHz when you cick with your mouse to tune in the panadapter.  Most QSO's take place on an even KHz and this makes tuning by clicking with your mouse much faster. 
 
 Controller functions:
+ - The Link LED will flash green when the app is running, but your specified station is NOT connected. The Link LED will light solid green when the app is running and your specified station IS connected to your radio.
  - The F1 button changes between fast and slow tuning rates. Press and hold to lock the tuning dial. The F1 LED will blink when the dial is locked. Press and hold again to unlock the tuning dial.
  - The F2 button switches between normal tuning and RIT. Press and hold F2 to reset RIT tuning back to zero.
  - The transmit button puts your radio into transmit for the station specified in the settings.
- - The 'Snap Tuning' feature will automatically tune your radio to the nearest 1Khz tuning step when you click to tune with your mouse in the panadapter. Since most QSOs typically takes place on an even Khz, this makes clicking to tune a lot faster. You can of course disable snap tuning in the settings.  Snap Tuning will work with any station connected to your radio.
+ - The 'Snap Tuning' feature will automatically tune your radio to the nearest 1Khz tuning step when you click to tune with your mouse in the panadapter. Since most QSOs typically take place on an even Khz, this makes clicking to tune a lot faster. You can of course disable snap tuning in the settings.  Snap Tuning will work with any station connected to your radio.
