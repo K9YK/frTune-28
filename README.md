@@ -14,7 +14,7 @@ Settings:
 When you first install and launch the application you'll need to go under File > Settings and put in the IP address of your Flex radio and the name of your station. Your station name is displayed at the bottom middle of your SmartSDR window. You can find your radio's IP address in SmartSDR under Settings > Radio Setup > Network > IP Address
 You should make sure that you connect your RC-28, and that Windows recognizes it, before you start frTune-28 for the first time.
 
-Controller function:
+Controller functions:
 The F1 button changes between fast and slow tuning rates. Press and hold to lock the tuning dial. The F1 LED will blink when the dial is locked. Press and hold again to unlock the tuning dial.
 The F2 button switches between normal tuning and RIT. Press and hold F2 to reset RIT tuning back to zero.
 The transmit button puts your radio into transmit for the station specified in the settings.
