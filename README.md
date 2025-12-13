@@ -5,6 +5,9 @@ frTune-28 uses the Flex API and works over the local network (it does not have S
 
 Note:  It is advised that you should make sure to connect your RC-28 to your computer, and that Windows recognizes it, before you start frTune-28 for the first time.
 
+Download latest release:
+ - Windows:   https://github.com/K9YK/frTune-28/releases/download/v2.2.1-Windows/frTune-28.Setup.v2.2.1.-.Windows.exe
+
 Settings:
  - Station Name: This is the name of the station instance that you want your RC-28 to work with.  Your station name is displayed at the bottom middle of your SmartSDR window.
  - Radio: If your FlexRadio is on the same subnet as your computer running SmartSDR, your radio should appear in the drop-down (uses Flex Discovery).  You also have the option to manually specify the IP address of your radio.
