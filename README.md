@@ -23,7 +23,7 @@ Controller Functions:
  - The transmit button puts your radio into transmit for the station specified in the settings.
  - The 'Snap Tuning' feature will automatically tune your radio to the nearest 1Khz tuning step when you click to tune with your mouse in the panadapter. Since most QSOs typically take place on an even Khz, this makes clicking to tune a lot faster. You can of course disable snap tuning in the settings.  Snap Tuning will work with any station connected to your radio.
 
-Version History:
+Version History:<BR>
 Version 2.2.2 - 12/19/2025
  - fixed a bug that prevented Flex stations with a space character in the name from being recognized
 
