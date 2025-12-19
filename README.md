@@ -24,20 +24,19 @@ Controller Functions:
  - The 'Snap Tuning' feature will automatically tune your radio to the nearest 1Khz tuning step when you click to tune with your mouse in the panadapter. Since most QSOs typically take place on an even Khz, this makes clicking to tune a lot faster. You can of course disable snap tuning in the settings.  Snap Tuning will work with any station connected to your radio.
 
 Version History:
-  Version 2.2.2 - 12/19/2025
-   - fixed a bug that prevented Flex stations with a space character in the name from being recognized
-     
-  Version 2.2.1 - 12/12/2025
-   - now uses Flex Discovery in the settings window to allow selection of a radio on the local network
-   - updates/fixes for the Mac version
-     
-  Version 2.1.1 - 12/6/2025
-   - updated core Flex libraries 
-   - now handles up to 8 slices (Flex 6700)
-   - minor client handling bug fixes
-     
-  Version 2.0.6 - 6/12/2025
-   - Adjusted settings window size
-   - Now saves the main window location in the config file on shutdown
-   - Added application icon
-     
+Version 2.2.2 - 12/19/2025
+ - fixed a bug that prevented Flex stations with a space character in the name from being recognized
+
+Version 2.2.1 - 12/12/2025
+ - now uses Flex Discovery in the settings window to allow selection of a radio on the local network
+ - updates/fixes for the Mac version
+
+Version 2.1.1 - 12/6/2025
+ - updated core Flex libraries 
+ - now handles up to 8 slices (Flex 6700)
+ - minor client handling bug fixes
+
+Version 2.0.6 - 6/12/2025
+ - Adjusted settings window size
+ - Now saves the main window location in the config file on shutdown
+ - Added application icon
