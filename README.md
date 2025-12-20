@@ -29,7 +29,6 @@ Version 2.2.2 - 12/19/2025
 
 Version 2.2.1 - 12/12/2025
  - now uses Flex Discovery in the settings window to allow selection of a radio on the local network
- - updates/fixes for the Mac version
 
 Version 2.1.1 - 12/6/2025
  - updated core Flex libraries 
